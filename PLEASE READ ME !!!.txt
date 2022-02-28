@@ -1,0 +1,13 @@
+This is a Ransomware that I developed.
+But it is not developed for real ransom.
+I'll tell you the Password.
+The password is "9371"
+
+and I don't know how to use VM, So I can't test this Virus. so if there is something wrong report me on github.
+
+이것은 제가만든 렘섬위어 입니다.
+하지만 나쁜 목적으로 만들어 진것은 아닙니다.
+그래서 비밀번호를 알려드리겠습니다.
+비밀번호는 "9371" 입니다.
+
+그리고 제가 가상머신을 사용할줄 몰라, 테스트를 해보지 못했습니다. 문제가 있다면 깃허브에 알려주세요.
